@@ -1,0 +1,2 @@
+1.12.1
+initialize,initialize/build/loader_replacer,polymer_interop/src/build/minify_transformer,reflectable,reflectable/src/transform_import,web_components,web_components/build/mirrors_remover

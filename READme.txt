@@ -4,7 +4,7 @@ hmm
 S
 ok this is
 where 
-the conflict
-is
+This the conflict branch
+This the conflict branch
 ha
 ha
